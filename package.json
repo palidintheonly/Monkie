@@ -4,10 +4,13 @@
   "main": "bot.js",
   "version": "2.1.6",
   "dependencies": {
-    "discord.js": "^13.8.0",
-    "forever": "^4.0.3",
+    "@discordjs/opus": "latest",
+    "canvas": "^2.11.2",
+    "discord.js": "^13.14.0",
     "fstorm": "latest",
     "jimp": "latest",
-    "node-cron": "^3.0.2"
+    "loadavg-windows": "^1.1.1",
+    "node-cron": "^3.0.2",
+    "normalize-date": "^0.0.4"
   }
 }
